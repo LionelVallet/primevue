@@ -1718,6 +1718,9 @@ export default {
                 }
             ]
         }),
+        loadingIcon: {
+            class: 'absolute right-3 top-1/2 -mt-2'
+        },
         token: {
             class: ['py-1 px-2 mr-2 bg-gray-300 dark:bg-gray-700 text-gray-700 dark:text-white/80 rounded-full', 'cursor-default inline-flex items-center']
         },
